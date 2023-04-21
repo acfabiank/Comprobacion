@@ -1,0 +1,67 @@
+#digilista {
+    display: none;
+}
+
+.boton {
+    margin: 2%;
+}
+
+#ocultar {
+    background-color: aliceblue;
+    opacity: 0.5;
+}
+
+body {
+    background-image: linear-gradient(to right, rgb(100, 10, 151), rgb(207, 39, 171) 50%, rgb(100, 10, 151));
+    font-family: Chakra Petch, sans-serif;
+}
+
+.table {
+    background-color: rgba(255, 255, 255, 0.742) !important;
+}
+
+.bd-example {
+    padding: 1.5rem;
+    margin-right: 0;
+    margin-left: 0;
+    border-width: 1px;
+    border-top-left-radius: 0.25rem;
+    border-top-right-radius: 0.25rem;
+    margin: 0 auto;
+    padding-top: 2rem;
+
+}
+
+.scrollspy-example {
+    max-height: 200px;
+    overflow-y: auto;
+    padding: 1rem;
+}
+
+.scrollspy-example {
+    background-color: rgba(255, 255, 255, 0.742) !important;
+
+}
+
+#carouselExampleControls {
+    margin: 0px auto;
+    padding-top: 3rem;
+
+}
+
+#textonavbar {
+    font-family: Chakra Petch, sans-serif;
+}
+
+/* .navbar {
+    background-color: rgb(42, 80, 150) !important;
+
+} */
+
+/* .toggler-left {
+    order: -1;
+} */
+
+/* .navbar-brand {
+    max-width: 15rem;
+} */
